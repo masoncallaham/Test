@@ -10,4 +10,12 @@ final int BIG = 10_000_000;
 
 
 During the class, I learned about different infinities using Jshell. It also was determined that computers do not really do math the same way as humans.
-* java.Integer.MAX_VALUE
+
+java
+
+Integer.MAX_VALUE;
+
+
+**NOTE**
+
+Use *JSHELL* to experiment with Java
