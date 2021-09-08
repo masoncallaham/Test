@@ -6,15 +6,17 @@
 
 Remember that constants should be capitalized
 
+```java
 final int BIG = 10_000_000;
-
+```
 
 During the class, I learned about different infinities using Jshell. It also was determined that computers do not really do math the same way as humans.
 
-java
+```java
 
-Integer.MAX_VALUE;
-
+Integer.MAX_VALUE
+Double.MAX_VALUE + 1
+```
 
 **NOTE**
 
